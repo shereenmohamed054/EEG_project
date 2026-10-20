@@ -1,0 +1,6 @@
+# Configuration for Step 0: Data Inspection
+data_dir: "data/raw"
+output_doc: "docs/data_inspection.md"
+output_csv: "data/zuco_unified_index.csv"
+max_files: null  # null to inspect all files, or integer for smoke test
+verbose: true
